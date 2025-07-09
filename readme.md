@@ -80,7 +80,7 @@ python main.py
 
 ## 📜 Autor
 
-Desenvolvido por **Paulo Henrique (P.H.)**  
+Desenvolvido por **Paulo Henrique (P.H)**  
 📸 [Instagram](https://www.instagram.com/paulo_hds_/)
 
 ---
