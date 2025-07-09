@@ -12,11 +12,13 @@ A página principal (`index.html`) exibe uma série de poemas distribuídos em s
 
 ## 📁 Estrutura do Projeto
 
+```
 Nova pasta - Copia/
-├── index.html # Página com os poemas
-├── style.css # Estilo visual com responsividade
-├── main.py # Script Python para organização de arquivos
-└── .git/ # Repositório Git
+├── index.html       # Página com os poemas
+├── style.css        # Estilo visual com responsividade
+├── main.py          # Script Python para organização de arquivos
+└── .git/            # Repositório Git
+```
 
 ---
 
@@ -70,14 +72,19 @@ Abra `index.html` em seu navegador para visualizar os poemas com o layout respon
 
 ```bash
 python main.py
+```
 
+> O script criará uma pasta `arquivos/` com subpastas por extensão (exceto `.py` e `.ipynb`).
 
-O script criará uma pasta arquivos/ com subpastas por extensão (exceto .py e .ipynb).
+---
 
+## 📜 Autor
 
-📜 Autor
-Desenvolvido por Paulo Henrique (P.H.)
-📸 Instagram
+Desenvolvido por **Paulo Henrique (P.H.)**  
+📸 [Instagram](https://www.instagram.com/paulo_hds_/)
 
-📄 Licença
+---
+
+## 📄 Licença
+
 Uso pessoal e educacional liberado. Dê os créditos se for compartilhar!
